@@ -1,0 +1,51 @@
+productId,productName,manufacturer,unitPrice
+1001,Intel Core i9-13900K,Intel,7299
+1002,AMD Ryzen 9 7950X,AMD,6499
+1003,NVIDIA GeForce RTX 4090,NVIDIA,22499
+1004,AMD Radeon RX 7900 XTX,13999,AMD
+1005,Samsung 980 Pro 2TB,Samsung,2599
+1006,Corsair Vengeance 32GB DDR5,Corsair,2199
+1007,ASUS ROG Strix X670E,ASUS,4799
+1008,MSI MAG B660M,MSI,1899
+1009,Cooler Master Hyper 212,Cooler Master,699
+1010,NZXT Kraken X63,NZXT,1899
+1011,Seasonic Prime TX-1000,Seasonic,.
+1012,Corsair RM850x,Corsair,1999
+1013,Lian Li PC-O11 Dynamic,Lian Li,1599
+1014,Fractal Design Meshify C,Fractal Design,1399,Fractal Design
+1015,Logitech G Pro X Superlight,Logitech,1599
+1016,Razer DeathAdder V3 Pro,Razer,1599
+1017,SteelSeries Apex Pro,SteelSeries,2699
+1018,Keychron K6 Wireless,Keychron,1299
+1019,Samsung Odyssey G9,Samsung,12999
+1020,LG UltraGear 27GN950,LG,7999
+1021,Elgato Stream Deck XL,Elgato,2999
+1022,HyperX Cloud II Wireless,HyperX,1599
+1023,Asus ROG Swift PG259QN,ASUS,8499
+1024,BenQ Zowie XL2546K,BenQ,5299
+1025,WD Black SN850 1TB,Western Digital,1999
+1026,Crucial MX500 1TB,1199,Crucial
+1027,Noctua NH-D15,Noctua,1399
+1028,DeepCool AK620,DeepCool,999
+1029,ASUS TUF Gaming RTX 4070,ASUS,9999
+1030,MSI Ventus 3X RTX 4080,MSI,16499
+1031,Intel Core i7-13700K,Intel,5299
+1032,AMD Ryzen 7 7700X,AMD,4199
+1033,G.Skill Trident Z5 RGB 32GB,G.Skill,2499
+1034,Patriot Viper Steel 64GB DDR4,Patriot,3299
+1035,ASRock B550M Steel Legend,ASRock,1599
+1036,Gigabyte AORUS Master Z690,Gigabyte,4899
+1037,Thermaltake Toughpower GF3 1200W,Thermaltake,2599
+1038,be quiet! Pure Power 11 700W,be quiet!,1299
+1039,Lian Li UNI FAN SL120,Lian Li,1299
+1040,Corsair iCUE QL120,Corsair,1399
+1041,Dell Alienware AW3423DW,Dell,12999
+1042,ASUS ProArt PA32UCX,ASUS,17999
+1043,AOC CQ32G2S,AOC,4999
+1044,EVGA SuperNOVA 850 G7,EVGA,1999
+1045,HyperX Alloy Origins,HyperX,1599
+1046,Roccat Vulcan 120 AIMO,Roccat,1699
+1047,ZOTAC Gaming RTX 4060 Ti,ZOTAC,7499
+1048,XFX Speedster MERC 319 RX 6800 XT,XFX,7999
+1049,Toshiba X300 8TB,Toshiba,1999
+1050,Seagate IronWolf 10TB,Seagate,3299
