@@ -6,7 +6,7 @@
 ## Emneoversikt
 Emnene er sortert fra tidligst til senest også i hvert semester
 
-### Semester 1 (2024)
+### Semester 1 (høst 2024)
 - [Exphil](./exphil/) : C
     - Exphil flervalg : B
     - Exphil hjemmeeksamen : C
@@ -14,7 +14,7 @@ Emnene er sortert fra tidligst til senest også i hvert semester
 - [Brukerkurs i matte](./brukerkurs-matte/) : A
 - [Webtek](./webtek.pdf) : B
 
-### Semester 2 (2025)
+### Semester 2 (vår 2025)
 - [Diskret matte](./diskret-matte/) : tbd
 - [Objektorientert](./objekt/) : tbd
 - [Nettverk]() : tbd
