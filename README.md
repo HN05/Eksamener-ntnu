@@ -16,7 +16,7 @@ Inneholder ikke gruppeemner / gruppeeksamener
 - [Webtek](./webtek.pdf) : B
 
 ### Semester 2 (vår 2025)
-- [Diskret matte](./diskret-matte/) : tbd
+- [Diskret matte](./diskret-matte/) : A
 - [Objektorientert](./objekt/) : tbd
 - [Nettverk]() : tbd
 
