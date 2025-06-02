@@ -1,7 +1,7 @@
 # Tidligere eksamener fra NTNU
 
 >[!NOTE]
-> - Det mangler flervalgsdelen for exphil 
+> - Flervalgsdelen for exphil mangler
 
 ## Emneoversikt
 Emnene er sortert fra tidligst til senest også i hvert semester  
