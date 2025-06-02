@@ -18,7 +18,7 @@ Inneholder ikke gruppeemner / gruppeeksamener
 ### Semester 2 (vår 2025)
 - [Diskret matte](./diskret-matte/) : tbd
 - [Objektorientert](./objekt/) : tbd
-- [Nettverk]() : tbd
+- [Nettverk](./nettverk.pdf) : tbd
 
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
