@@ -20,6 +20,14 @@ Inneholder ikke gruppeemner / gruppeeksamener
 - [Objektorientert](./objekt/) : A
 - [Nettverk](./nettverk.pdf) : A
 
+### Semester 3 (høst 2025)
+- [Datamaskiner](./datamaskiner.pdf) : TBD
+- Algoritmer og Datastrukturer : TBD
+- IT prosjekt : TBD
+    - Koding av [repo](https://github.com/HN05/quiz-app) : TBD
+    - Reflekjonsoppgave : TBD
+- Ledelse: TBD
+
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
 - IT grunnkurs: [TDT4109](https://www.ntnu.no/studier/emner/TDT4109/)
@@ -28,3 +36,7 @@ Inneholder ikke gruppeemner / gruppeeksamener
 - Diskret matte: [MA0301](https://www.ntnu.no/studier/emner/MA0301/)
 - Objektorientert: [TDT4100](https://www.ntnu.no/studier/emner/TDT4100/)
 - Nettverk: [TTM4100](https://www.ntnu.no/studier/emner/TTM4100/)
+- Datamaskiner: [TDT4160](https://www.ntnu.no/studier/emner/TDT4160/) 
+- Algoritmer og Datastrukturer: [TDT4120](https://www.ntnu.no/studier/emner/TDT4120/) 
+- IT prosjekt: [IT1901](https://www.ntnu.no/studier/emner/IT1901/) 
+- Ledelse: [ØKO1001](https://www.ntnu.no/studier/emner/ØKO1001/) 
