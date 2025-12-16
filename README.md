@@ -22,7 +22,7 @@ Inneholder ikke alle gruppeemner
 
 ### Semester 3 (høst 2025)
 - [Datamaskiner](./datamaskiner) : TBD
-- Algoritmer og Datastrukturer : TBD
+- [Algoritmer og Datastrukturer](./algdat/) : TBD
 - IT prosjekt : TBD
     - Koding av [repo](https://github.com/HN05/quiz-app) : TBD
     - Reflekjonsoppgave : TBD
