@@ -25,8 +25,8 @@ Inneholder ikke alle gruppeemner
 - [Algoritmer og Datastrukturer](./algdat/) : TBD
 - IT prosjekt : TBD
     - Koding av [repo](https://github.com/HN05/quiz-app) : TBD
-    - Reflekjonsoppgave : TBD
-- Ledelse: TBD
+    - [Reflekjonsoppgave](./itp-refleksjon.pdf) : TBD
+- [Ledelse](./ledelse.pdf): TBD
 
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
