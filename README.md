@@ -21,7 +21,7 @@ Inneholder ikke alle gruppeemner
 - [Nettverk](./nettverk.pdf) : A
 
 ### Semester 3 (høst 2025)
-- [Datamaskiner](./datamaskiner) : TBD
+- [Datamaskiner](./datamaskiner) : A
 - [Algoritmer og Datastrukturer](./algdat/) : TBD
 - IT prosjekt : TBD
     - Koding av [repo](https://github.com/HN05/quiz-app) : TBD
