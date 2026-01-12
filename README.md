@@ -22,11 +22,17 @@ Inneholder ikke alle gruppeemner
 
 ### Semester 3 (høst 2025)
 - [Datamaskiner](./datamaskiner) : A
-- [Algoritmer og Datastrukturer](./algdat/) : TBD
+- [Algoritmer og Datastrukturer](./algdat/) : B
 - IT prosjekt : TBD
     - Koding av [repo](https://github.com/HN05/quiz-app) : TBD
     - [Reflekjonsoppgave](./itp-refleksjon.pdf) : TBD
-- [Ledelse](./ledelse.pdf): TBD
+- [Ledelse](./ledelse): C
+
+### Semester 4 (vår 2026)
+- Statistikk
+- Databaser
+- Operativsystemer
+- Programvareutvikling
 
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
@@ -40,3 +46,7 @@ Inneholder ikke alle gruppeemner
 - Algoritmer og Datastrukturer: [TDT4120](https://www.ntnu.no/studier/emner/TDT4120/) 
 - IT prosjekt: [IT1901](https://www.ntnu.no/studier/emner/IT1901/) 
 - Ledelse: [ØKO1001](https://www.ntnu.no/studier/emner/ØKO1001/) 
+- Statistikk: [TMA4245](https://www.ntnu.no/studier/emner/TMA4245) 
+- Databaser: [TDT4145](https://www.ntnu.no/studier/emner/TDT4145) 
+- Operativsystemer: [TDT4186](https://www.ntnu.no/studier/emner/TDT4186) 
+- Programvareutvikling: [TDT4140](https://www.ntnu.no/studier/emner/TDT4140) 
