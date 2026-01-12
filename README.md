@@ -19,6 +19,7 @@ Inneholder ikke alle gruppeemner
 - [Diskret matte](./diskret-matte/) : A
 - [Objektorientert](./objekt/) : A
 - [Nettverk](./nettverk.pdf) : A
+- Menneske maskin interaksjon: Bestått
 
 ### Semester 3 (høst 2025)
 - [Datamaskiner](./datamaskiner) : A
@@ -42,6 +43,7 @@ Inneholder ikke alle gruppeemner
 - Diskret matte: [MA0301](https://www.ntnu.no/studier/emner/MA0301/)
 - Objektorientert: [TDT4100](https://www.ntnu.no/studier/emner/TDT4100/)
 - Nettverk: [TTM4100](https://www.ntnu.no/studier/emner/TTM4100/)
+- Menneske maskin interaksjon: [TDT4180](https://www.ntnu.no/studier/emner/TDT4180/) 
 - Datamaskiner: [TDT4160](https://www.ntnu.no/studier/emner/TDT4160/) 
 - Algoritmer og Datastrukturer: [TDT4120](https://www.ntnu.no/studier/emner/TDT4120/) 
 - IT prosjekt: [IT1901](https://www.ntnu.no/studier/emner/IT1901/) 
