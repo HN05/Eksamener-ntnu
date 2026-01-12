@@ -5,7 +5,7 @@
 
 ## Emneoversikt
 Emnene er sortert fra tidligst til senest også i hvert semester  
-Inneholder ikke alle gruppeemner
+Inneholder ikke gruppeskrevne oppgaver
 
 ### Semester 1 (høst 2024)
 - [Exphil](./exphil/) : C
