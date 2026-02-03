@@ -24,9 +24,9 @@ Inneholder ikke gruppeskrevne oppgaver
 ### Semester 3 (høst 2025)
 - [Datamaskiner](./datamaskiner) : A
 - [Algoritmer og Datastrukturer](./algdat/) : B
-- IT prosjekt : TBD
-    - Koding av [repo](https://github.com/HN05/quiz-app) : TBD
-    - [Reflekjonsoppgave](./itp-refleksjon.pdf) : TBD
+- IT prosjekt : B
+    - Koding av [repo](https://github.com/HN05/quiz-app)
+    - [Reflekjonsoppgave](./itp-refleksjon.pdf)
 - [Ledelse](./ledelse): C
 
 ### Semester 4 (vår 2026)
