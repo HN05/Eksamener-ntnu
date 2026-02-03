@@ -25,7 +25,7 @@ Inneholder ikke gruppeskrevne oppgaver
 - [Datamaskiner](./datamaskiner) : A
 - [Algoritmer og Datastrukturer](./algdat/) : B
 - IT prosjekt : B
-    - Koding av [repo](https://github.com/HN05/quiz-app)
+    - [Prosjekt repo](https://github.com/HN05/quiz-app)
     - [Reflekjonsoppgave](./itp-refleksjon.pdf)
 - [Ledelse](./ledelse): C
 
