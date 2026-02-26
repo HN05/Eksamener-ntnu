@@ -9,8 +9,8 @@ Inneholder ikke gruppeskrevne oppgaver
 
 ### Semester 1 (høst 2024)
 - [Exphil](./exphil/) : C
-    - Exphil flervalg : B
-    - Exphil hjemmeeksamen : C
+    - Exphil flervalg (30%) : B
+    - Exphil hjemmeeksamen (70%) : C
 - [IT grunnkurs](./itgk.pdf) : A
 - [Brukerkurs i matte](./brukerkurs-matte/) : A
 - [Webtek](./webtek.pdf) : B
@@ -25,18 +25,25 @@ Inneholder ikke gruppeskrevne oppgaver
 - [Datamaskiner](./datamaskiner) : A
 - [Algoritmer og Datastrukturer](./algdat/) : B
 - IT prosjekt : B
-    - [Prosjekt repo](https://github.com/HN05/quiz-app)
-    - [Reflekjonsoppgave](./itp-refleksjon.pdf)
+    - [Prosjekt repo](https://github.com/HN05/quiz-app) (70%)
+    - [Reflekjonsoppgave](./itp-refleksjon.pdf) (30%)
 - [Ledelse](./ledelse): C
 
 ### Semester 4 (vår 2026)
 - Statistikk : TBD
 - [Databaser](./database/) : TBD
-    - [Midterm](./database/midterm.pdf) : TBD
-    - Prosjekt : TBD
-    - Eksamen : TBD
+    - [Midterm](./database/midterm.pdf) (30%) : TBD
+    - Prosjekt (30%) : TBD
+    - Eksamen (40%) : TBD
 - Operativsystemer : TBD
 - Programvareutvikling : TBD
+    - Forstudie (5%) : 2/5
+    - Retrospektiv 1 (5%) : 5/5
+    - Retrospektiv 2 (10%) : TBD
+    - Individuell refleksjon (30%) : TBD
+    - Medstudentvurdering ind. refl. (5%) : TBD
+    - Gruppe refleksjon (40%) : TBD
+    - Medstudentvurdering gruppe refl. (5%) : TBD
 
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
