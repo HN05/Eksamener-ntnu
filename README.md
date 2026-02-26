@@ -19,7 +19,7 @@ Inneholder ikke gruppeskrevne oppgaver
 - [Diskret matte](./diskret-matte/) : A
 - [Objektorientert](./objekt/) : A
 - [Nettverk](./nettverk.pdf) : A
-- Menneske maskin interaksjon: Bestått
+- Menneske maskin interaksjon : Bestått
 
 ### Semester 3 (høst 2025)
 - [Datamaskiner](./datamaskiner) : A
@@ -30,10 +30,13 @@ Inneholder ikke gruppeskrevne oppgaver
 - [Ledelse](./ledelse): C
 
 ### Semester 4 (vår 2026)
-- Statistikk
-- Databaser
-- Operativsystemer
-- Programvareutvikling
+- Statistikk : TBD
+- [Databaser](./database/) : TBD
+    - [Midterm](./database/midterm.pdf) : TBD
+    - Prosjekt : TBD
+    - Eksamen : TBD
+- Operativsystemer : TBD
+- Programvareutvikling : TBD
 
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
