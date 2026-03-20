@@ -32,7 +32,7 @@ Inneholder ikke gruppeskrevne oppgaver
 ### Semester 4 (vår 2026)
 - Statistikk : TBD
 - [Databaser](./database/) : TBD
-    - [Midterm](./database/midterm.pdf) (30%) : TBD
+    - [Midterm](./database/midterm.pdf) (30%) : A
     - Prosjekt (30%) : TBD
     - Eksamen (40%) : TBD
 - Operativsystemer : TBD
