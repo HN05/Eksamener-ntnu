@@ -33,7 +33,7 @@ Inneholder ikke gruppeskrevne oppgaver
 - Statistikk : TBD
 - [Databaser](./database/) : TBD
     - [Midterm](./database/midterm.pdf) (30%) : A
-    - Prosjekt (30%) : TBD
+    - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : TBD
     - Eksamen (40%) : TBD
 - Operativsystemer : TBD
 - Programvareutvikling : TBD
