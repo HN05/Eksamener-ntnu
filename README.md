@@ -32,16 +32,16 @@ Inneholder ikke gruppeskrevne oppgaver
 ### Semester 4 (vår 2026)
 - Statistikk : TBD
 - [Databaser](./database/) : TBD
-    - [Midterm](./database/midterm.pdf) (30%) : A
+    - [Midterm](./database/midterm-besvarelse.pdf) (30%) : A
     - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : A
-    - Eksamen (40%) : TBD
+    - [Final Eksamen](./database/final-besvarelse.pdf) (40%) : TBD
 - Operativsystemer : TBD
 - Programvareutvikling : TBD
     - Forstudie (5%) : 2/5
     - Retrospektiv 1 (5%) : 5/5
     - Retrospektiv 2 (10%) : 4/5
-    - Individuell refleksjon (30%) : TBD
-    - Medstudentvurdering ind. refl. (5%) : TBD
+    - [Individuell refleksjon](./pu-individuell-ref.pdf) (30%) : 3/5
+    - Medstudentvurdering ind. refl. (5%) : 1/1
     - Gruppe refleksjon (40%) : TBD
     - Medstudentvurdering gruppe refl. (5%) : TBD
 
