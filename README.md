@@ -30,7 +30,7 @@ Inneholder ikke gruppeskrevne oppgaver
 - [Ledelse](./ledelse): C
 
 ### Semester 4 (vår 2026)
-- Statistikk : TBD
+- [Statistikk](./statistikk/) : TBD
 - [Databaser](./database/) : TBD
     - [Midterm](./database/midterm-besvarelse.pdf) (30%) : A
     - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : A
