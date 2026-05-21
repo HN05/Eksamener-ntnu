@@ -36,14 +36,14 @@ Inneholder ikke gruppeskrevne oppgaver
     - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : A
     - [Final Eksamen](./database/final-besvarelse.pdf) (40%) : TBD
 - Operativsystemer : TBD
-- Programvareutvikling : TBD
+- Programvareutvikling : B
     - Forstudie (5%) : 2/5
     - Retrospektiv 1 (5%) : 5/5
     - Retrospektiv 2 (10%) : 4/5
     - [Individuell refleksjon](./pu-individuell-ref.pdf) (30%) : 3/5
     - Medstudentvurdering ind. refl. (5%) : 1/1
-    - Gruppe refleksjon (40%) : TBD
-    - Medstudentvurdering gruppe refl. (5%) : TBD
+    - Gruppe refleksjon (40%) : 5/5
+    - Medstudentvurdering gruppe refl. (5%) : 1/1
 
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
