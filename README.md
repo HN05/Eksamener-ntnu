@@ -31,10 +31,10 @@ Inneholder ikke gruppeskrevne oppgaver
 
 ### Semester 4 (vår 2026)
 - [Statistikk](./statistikk/) : TBD
-- [Databaser](./database/) : TBD
+- [Databaser](./database/) : A
     - [Midterm](./database/midterm-besvarelse.pdf) (30%) : A
     - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : A
-    - [Final Eksamen](./database/final-besvarelse.pdf) (40%) : TBD
+    - [Final Eksamen](./database/final-besvarelse.pdf) (40%) : A
 - Operativsystemer : TBD
 - Programvareutvikling : B
     - Forstudie (5%) : 2/5
