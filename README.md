@@ -35,7 +35,7 @@ Inneholder ikke gruppeskrevne oppgaver
     - [Midterm](./database/midterm-besvarelse.pdf) (30%) : A
     - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : A
     - [Final Eksamen](./database/final-besvarelse.pdf) (40%) : A
-- Operativsystemer : TBD
+- [Operativsystemer](./os/) : TBD
 - Programvareutvikling : B
     - Forstudie (5%) : 2/5
     - Retrospektiv 1 (5%) : 5/5
