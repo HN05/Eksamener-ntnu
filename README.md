@@ -16,26 +16,20 @@ Inneholder ikke gruppeskrevne oppgaver
 - [Webtek](./webtek.pdf) : B
 
 ### Semester 2 (vår 2025)
+- Menneske maskin interaksjon : Bestått
 - [Diskret matte](./diskret-matte/) : A
 - [Objektorientert](./objekt/) : A
 - [Nettverk](./nettverk.pdf) : A
-- Menneske maskin interaksjon : Bestått
 
 ### Semester 3 (høst 2025)
-- [Datamaskiner](./datamaskiner) : A
-- [Algoritmer og Datastrukturer](./algdat/) : B
 - IT prosjekt : B
     - [Prosjekt repo](https://github.com/HN05/quiz-app) (70%)
     - [Reflekjonsoppgave](./itp-refleksjon.pdf) (30%)
+- [Datamaskiner](./datamaskiner) : A
+- [Algoritmer og Datastrukturer](./algdat/) : B
 - [Ledelse](./ledelse): C
 
 ### Semester 4 (vår 2026)
-- [Statistikk](./statistikk/) : TBD
-- [Databaser](./database/) : A
-    - [Midterm](./database/midterm-besvarelse.pdf) (30%) : A
-    - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : A
-    - [Final Eksamen](./database/final-besvarelse.pdf) (40%) : A
-- [Operativsystemer](./os/) : TBD
 - Programvareutvikling : B
     - Forstudie (5%) : 2/5
     - Retrospektiv 1 (5%) : 5/5
@@ -44,6 +38,12 @@ Inneholder ikke gruppeskrevne oppgaver
     - Medstudentvurdering ind. refl. (5%) : 1/1
     - Gruppe refleksjon (40%) : 5/5
     - Medstudentvurdering gruppe refl. (5%) : 1/1
+- [Databaser](./database/) : A
+    - [Midterm](./database/midterm-besvarelse.pdf) (30%) : A
+    - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : A
+    - [Final Eksamen](./database/final-besvarelse.pdf) (40%) : A
+- [Statistikk](./statistikk/) : TBD
+- [Operativsystemer](./os/) : TBD
 
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
