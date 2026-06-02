@@ -42,7 +42,7 @@ Inneholder ikke gruppeskrevne oppgaver
     - [Midterm](./database/midterm-besvarelse.pdf) (30%) : A
     - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : A
     - [Final Eksamen](./database/final-besvarelse.pdf) (40%) : A
-- [Statistikk](./statistikk/) : TBD
+- [Statistikk](./statistikk/) : A
 - [Operativsystemer](./os/) : TBD
 
 ## Emnekoder
