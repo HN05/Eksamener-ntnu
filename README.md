@@ -43,7 +43,7 @@ Inneholder ikke gruppeskrevne oppgaver
     - [Prosjekt](https://github.com/HN05/sit-treningsdatabase) (30%) : A
     - [Final Eksamen](./database/final-besvarelse.pdf) (40%) : A
 - [Statistikk](./statistikk/) : A
-- [Operativsystemer](./os/) : TBD
+- [Operativsystemer](./os/) : A
 
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
