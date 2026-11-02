@@ -45,6 +45,14 @@ Inneholder ikke gruppeskrevne oppgaver
 - [Statistikk](./statistikk/) : A
 - [Operativsystemer](./os/) : A
 
+### Semester 5 (høst 2026)
+- Etisk hacking : TBD
+    - [Hometask](./etisk-hacking/hometask.pdf) (30%) : TBD
+    - Eksamen (70%) : TBD
+- Lineær algebra : TBD
+- Maskinnær programmering : TBD
+- Programmeringsspråk : TBD
+
 ## Emnekoder
 - Exphil: [EXPH0300](https://www.ntnu.no/studier/emner/EXPH0300/)
 - IT grunnkurs: [TDT4109](https://www.ntnu.no/studier/emner/TDT4109/)
@@ -62,3 +70,7 @@ Inneholder ikke gruppeskrevne oppgaver
 - Databaser: [TDT4145](https://www.ntnu.no/studier/emner/TDT4145) 
 - Operativsystemer: [TDT4186](https://www.ntnu.no/studier/emner/TDT4186) 
 - Programvareutvikling: [TDT4140](https://www.ntnu.no/studier/emner/TDT4140) 
+- Etisk hacking: [IIK3100](https://www.ntnu.no/studier/emner/IIK3100)
+- Lineær algebra: [MA1201](https://www.ntnu.no/studier/emner/MA1201)
+- Maskinnær programmering: [TDT4258](https://www.ntnu.no/studier/emner/TDT4258)
+- Programmeringsspråk: [TDT4165](https://www.ntnu.no/studier/emner/TDT4165)
